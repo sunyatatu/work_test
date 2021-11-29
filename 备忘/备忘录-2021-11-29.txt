@@ -1,0 +1,14 @@
+hutools的使用
+pageHelper的使用
+java 8的新特性
+json的使用
+返回的数据格式
+	{
+		msg:"",
+		status:"",
+		data:""//若需要返回数据，则将其存入data中，data为Object类型，到时候在前端强制转换
+	}
+自定义注解的使用
+切面的使用
+SQL的编写（暂定为低优先级）
+
